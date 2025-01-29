@@ -6,7 +6,7 @@ from youtube_api import  getYoutubeInfor
 
 # initialize
 notion = Client(auth="secret_key")
-database_id = "80ca70f22ccb41d6b2d9ed81d10c6f9d"
+database_id = "database_id"
 pages = []
 
 

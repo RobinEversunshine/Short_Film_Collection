@@ -1,4 +1,4 @@
-# Short_Film_Collection
+# Short Film Collection
 Some scripts to create pages in my short film collection Notion database using video links of youtube or bilibili.
 
 I created a Notion database to store all kinds of animated short films, motion designs, and visual effects. As you can see I also classify them by adding tags, sometimes also leave a comment on them.

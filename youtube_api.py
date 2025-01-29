@@ -4,7 +4,7 @@ import re
 
 
 # Your YouTube Data API key
-API_KEY = "AIzaSyDqaTahki6YXkGK-gm0JFMNyUDIFNS4aus"
+API_KEY = "key"
 
 
 

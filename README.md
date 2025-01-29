@@ -9,4 +9,4 @@ I'm using a script I wrote to import film information (name, description, durati
 
 My short film collection database: https://elevated-temples.notion.site/animated-short-film-collection
 
-![image](https://file.notion.so/f/f/eba495ae-27ec-4b29-a0c4-e438c9218d5a/394475bd-3b80-4489-81c2-260ce7583959/image.png?table=block&id=18ae227c-997d-8009-a9cf-f98a2b620fc9&spaceId=eba495ae-27ec-4b29-a0c4-e438c9218d5a&expirationTimestamp=1738144800000&signature=BeI8l047GaaZSwMuxznwrkyIaXvIAWouqoKBwbicoik&downloadName=image.png)
+![image](image.png)
